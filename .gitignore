@@ -1,0 +1,46 @@
+# Visual Studio
+.vs/
+*.user
+*.userosscache
+*.suo
+*.ntvs* 
+*.njsproj
+*.sln.docstates
+
+# Build results
+[Dd]evelop*/
+[Rr]elease*/
+[Rr]elease*/
+x64/
+x86/
+build/
+bld/
+
+# Visual Studio 2015 - 2019 cache/options
+.vscode/
+*.vscode-test
+
+# Visual Studio 2017+ cache/options
+.vs/
+*.sln.cache
+
+# .env file (contains API keys and other sensitive data)
+.env
+
+# NuGet packages
+packages/
+
+# ReSharper
+_ReSharper*/
+*.[Rr]eSharper
+*.DotSettings.user
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Local
+local.config
+config.json

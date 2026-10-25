@@ -1,0 +1,32 @@
+/home/pseudomortus/repos/T9A – APIs 101/bin/Debug/net10.0/appsettings.Development.json
+/home/pseudomortus/repos/T9A – APIs 101/bin/Debug/net10.0/appsettings.json
+/home/pseudomortus/repos/T9A – APIs 101/bin/Debug/net10.0/T9A – APIs 101.staticwebassets.endpoints.json
+/home/pseudomortus/repos/T9A – APIs 101/bin/Debug/net10.0/T9A – APIs 101
+/home/pseudomortus/repos/T9A – APIs 101/bin/Debug/net10.0/T9A – APIs 101.deps.json
+/home/pseudomortus/repos/T9A – APIs 101/bin/Debug/net10.0/T9A – APIs 101.runtimeconfig.json
+/home/pseudomortus/repos/T9A – APIs 101/bin/Debug/net10.0/T9A – APIs 101.dll
+/home/pseudomortus/repos/T9A – APIs 101/bin/Debug/net10.0/T9A – APIs 101.pdb
+/home/pseudomortus/repos/T9A – APIs 101/bin/Debug/net10.0/DotEnv.Core.dll
+/home/pseudomortus/repos/T9A – APIs 101/bin/Debug/net10.0/es/DotEnv.Core.resources.dll
+/home/pseudomortus/repos/T9A – APIs 101/obj/Debug/net10.0/T9A – APIs 101.csproj.AssemblyReference.cache
+/home/pseudomortus/repos/T9A – APIs 101/obj/Debug/net10.0/rpswa.dswa.cache.json
+/home/pseudomortus/repos/T9A – APIs 101/obj/Debug/net10.0/T9A – APIs 101.GeneratedMSBuildEditorConfig.editorconfig
+/home/pseudomortus/repos/T9A – APIs 101/obj/Debug/net10.0/T9A – APIs 101.AssemblyInfoInputs.cache
+/home/pseudomortus/repos/T9A – APIs 101/obj/Debug/net10.0/T9A – APIs 101.AssemblyInfo.cs
+/home/pseudomortus/repos/T9A – APIs 101/obj/Debug/net10.0/T9A – APIs 101.csproj.CoreCompileInputs.cache
+/home/pseudomortus/repos/T9A – APIs 101/obj/Debug/net10.0/T9A – APIs 101.MvcApplicationPartsAssemblyInfo.cache
+/home/pseudomortus/repos/T9A – APIs 101/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/home/pseudomortus/repos/T9A – APIs 101/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/home/pseudomortus/repos/T9A – APIs 101/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/home/pseudomortus/repos/T9A – APIs 101/obj/Debug/net10.0/scopedcss/bundle/T9A – APIs 101.styles.css
+/home/pseudomortus/repos/T9A – APIs 101/obj/Debug/net10.0/staticwebassets.build.json
+/home/pseudomortus/repos/T9A – APIs 101/obj/Debug/net10.0/staticwebassets.build.json.cache
+/home/pseudomortus/repos/T9A – APIs 101/obj/Debug/net10.0/staticwebassets.development.json
+/home/pseudomortus/repos/T9A – APIs 101/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/home/pseudomortus/repos/T9A – APIs 101/obj/Debug/net10.0/swae.build.ex.cache
+/home/pseudomortus/repos/T9A – APIs 101/obj/Debug/net10.0/T9A _ AP.91D12AD0.Up2Date
+/home/pseudomortus/repos/T9A – APIs 101/obj/Debug/net10.0/T9A – APIs 101.dll
+/home/pseudomortus/repos/T9A – APIs 101/obj/Debug/net10.0/refint/T9A – APIs 101.dll
+/home/pseudomortus/repos/T9A – APIs 101/obj/Debug/net10.0/T9A – APIs 101.pdb
+/home/pseudomortus/repos/T9A – APIs 101/obj/Debug/net10.0/T9A – APIs 101.genruntimeconfig.cache
+/home/pseudomortus/repos/T9A – APIs 101/obj/Debug/net10.0/ref/T9A – APIs 101.dll

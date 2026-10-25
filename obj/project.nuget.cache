@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s3UYTLspeok=",
+  "success": true,
+  "projectFilePath": "/home/pseudomortus/repos/T9A – APIs 101/T9A – APIs 101.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/dotenv.core/3.1.1/dotenv.core.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
