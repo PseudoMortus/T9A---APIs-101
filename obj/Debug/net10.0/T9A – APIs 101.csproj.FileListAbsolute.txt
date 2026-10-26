@@ -30,3 +30,4 @@
 /home/pseudomortus/repos/T9A – APIs 101/obj/Debug/net10.0/T9A – APIs 101.pdb
 /home/pseudomortus/repos/T9A – APIs 101/obj/Debug/net10.0/T9A – APIs 101.genruntimeconfig.cache
 /home/pseudomortus/repos/T9A – APIs 101/obj/Debug/net10.0/ref/T9A – APIs 101.dll
+/home/pseudomortus/repos/T9A – APIs 101/obj/Debug/net10.0/T9A – APIs 101.sourcelink.json

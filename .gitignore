@@ -44,3 +44,4 @@ _ReSharper*/
 # Local
 local.config
 config.json
+JSON_Basics.hidden.http

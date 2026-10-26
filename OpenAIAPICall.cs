@@ -61,7 +61,7 @@ namespace OpenAI_API_Call
                 catch (Exception ex)
                 {
                     // Display Error if API call fails
-                    Console.WriteLine($"Error: {ex.Message}");
+                    Console.WriteLine($"Error: {ex.Message}");   
                 }
             }
         }
