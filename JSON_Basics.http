@@ -1,8 +1,12 @@
-## ENDPOINT:
+## ENDPOINT: URL API is caccessed from
+## CALL: A request made to an API
+## API: application programming interface
+## Response: The data returned from an API call
+## JSON: JavaScript Object Notation, a lightweight data-interchange format
+## Entity: A single object or record in a database
 
-
-## POST:
-## GET:
-## PUT:
-## PATCH:
-## DELETE:
+## POST: A request method used to send data to an API to create a new resource
+## GET: A request method used to retrieve data from an API
+## PUT: A request method used to send data to an API to update an existing resource
+## PATCH: A request method used to send data to an API to partially update an existing resource
+## DELETE: A request method used to send data to an API to delete an existing resource

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("T9A – APIs 101")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d4952125b0e4b4f1900710c667a471be7353dad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f15996ed4b54b7ace9c5b34e482fe644101fb6a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("T9A – APIs 101")]
 [assembly: System.Reflection.AssemblyTitleAttribute("T9A – APIs 101")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

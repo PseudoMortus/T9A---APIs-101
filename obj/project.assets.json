@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net10.0": {
       "DotEnv.Core/3.1.1": {
@@ -47,29 +47,29 @@
     ]
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "C:\\Users\\WillisPearson\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/pseudomortus/repos/T9A – APIs 101/T9A – APIs 101.csproj",
+      "projectUniqueName": "C:\\Users\\WillisPearson\\Repos\\T9A---APIs-101\\T9A – APIs 101.csproj",
       "projectName": "T9A – APIs 101",
-      "projectPath": "/home/pseudomortus/repos/T9A – APIs 101/T9A – APIs 101.csproj",
-      "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/home/pseudomortus/repos/T9A – APIs 101/obj/",
+      "projectPath": "C:\\Users\\WillisPearson\\Repos\\T9A---APIs-101\\T9A – APIs 101.csproj",
+      "packagesPath": "C:\\Users\\WillisPearson\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\WillisPearson\\Repos\\T9A---APIs-101\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\WillisPearson\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
-        "/usr/lib64/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {}
         }
@@ -84,10 +84,11 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "10.0.400"
     },
     "frameworks": {
       "net10.0": {
+        "framework": "net10.0",
         "targetAlias": "net10.0",
         "dependencies": {
           "DotEnv.Core": {
@@ -114,7 +115,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/10.0.113/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
